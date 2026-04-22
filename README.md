@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=5KIbhHo6GJA&t=22974s
 <br>
 
 <p align="center">
-  <img width="473" height="707" alt="Capture d’écran 2026-04-22 à 22 21 14"       
-  src="https://github.com/user-attachments/assets/5d9784d7-5ccc-4b2f-9c52-e9278106dad5" />
+  <img width="459" height="734" alt="Capture d’écran 2026-04-22 à 23 18 33" 
+  src="https://github.com/user-attachments/assets/c4884683-c60a-43e9-ac02-875652951997" />
 </p>
 
