@@ -67,4 +67,3 @@ if __name__ == "__main__":
     result = send_to_event_hub(ride)
     print(f"Single ride sent to Event Hub: {result}")
     
-    
