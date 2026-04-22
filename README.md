@@ -1,9 +1,5 @@
-# **UBER REAL-TIME DATA ENGINEERING PROJECT**
-
-#### **Watch The Full Project On YouTube** - https://youtu.be/5KIbhHo6GJA?si=ktBADBZbM3IqRJ2s
-
-
-![Project Architecture](https://github.com/anshlambagit/Uber_Data_Engineer_Project/blob/main/architecture.png)
-
-
+<p align="center">
+  <img width="473" height="707" alt="Capture d’écran 2026-04-22 à 22 21 14"       
+  src="https://github.com/user-attachments/assets/5d9784d7-5ccc-4b2f-9c52-e9278106dad5" />
+</p>
 
